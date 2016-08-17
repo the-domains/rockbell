@@ -1,7 +1,7 @@
 name: Rockbell
 favicon: null
-layout_spectrum: 0.8261625112500042
-typography_spectrum: 0.7867526265326887
+layout_spectrum: 0.80621
+typography_spectrum: 0
 title: Rockbell
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2065413563977927
-  lightness: 0.9110708963125944
-  saturation: 0.4058523843996227
-  rhythmicContrast: 0.5100143775343895
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
