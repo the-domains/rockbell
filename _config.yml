@@ -2,6 +2,7 @@ name: Rockbell
 favicon: null
 layout_spectrum: 0.8261625112500042
 typography_spectrum: 0.7867526265326887
+title: Rockbell
 cta:
   domain: null
   bucket: null
